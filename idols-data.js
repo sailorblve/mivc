@@ -38,7 +38,7 @@ const totalIdols = [
         group: "Cho Tokimeki♡Sendenbu", 
         color: "Cho Tokimeki♡Red", 
         position: "Ace · Center", 
-        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjurL2TMLvOzuG8VdRPrjKXiyGUR79_Gu2gU3kipq7eFJxy9vduM-G_yz-iMV3lBIvQqvNkSpeYkQZ8Kwv_TEm_gBFox6dSdrBSsqLytXdrsrl53U1NADl6srDWmZfoaml9AubYhyL6kP1deFuAjjjYMu4gWTeVmaObKtnBD6q6kALoXK4LOkm7p6YPX8D/s1600/sakaihitoka.webp", 
+        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSQaig3g9_soWZJ3CLHCNkhpf8b1T7K1CbDWL7PcHevwDUxKYROXjFAjViNJZxwOCAT3SdbUysITMowFh0X9l1o-wqbV2gOtxj6NM8IbHN36wMPdBxbkH2ssuWU5s9TzoPBx6Pm6YMxzFS9TZJITV3DguXjEbiQ-f3sghY0RL7oj_-1Mc/s1600/sakaihitoka.webp", 
         link: "https://myidol-1.blogspot.com/p/sakai-hitoka.html",
         nickname: "Hitoka (ひとか)",
         born: "July 25, 2001 (25)",
