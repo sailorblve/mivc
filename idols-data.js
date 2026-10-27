@@ -6,7 +6,7 @@ const totalIdols = [
         group: "Cho Tokimeki♡Sendenbu", 
         color: "Cho Tokimeki♡Blue", 
         position: "Leader · Visual", 
-        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoiwgBeLq-LSTDrWb2QRwn8pDdpSBTR5sG0d_43loH0bi-bwFsZ2L65dpNAET-xNPZjzFyJrBlEwNSFR50BYC5bXf7zUhV404oszPYEh0gYXlLGZkMrDeN7A845vIWJapF3ax3hThLTnEhSqT_iqaiXHShtkWWIeTt3-_jPBS3Yz3pdxHeBivf-tGXgbyY/s1600/tsujinokanami.webp", 
+        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitiOXL22bGuV0TVcoQ8wDz1yuyFKIlTosfJr0H9GU7RgNJI0jCsPbeD18OzAZMblwgqqIFVPW3Wcb3owtNHj7GnHtknHNuwb2mLNH5BYb2FeDOxurn64FQN4CPk_4hKtw5cVV2DsR7CtwHBd8qTGcIIKAmHCjlzJh0J9dG9YpOOZkDuzuuk7d1lRvaNh4f/s1600/kticon.webp", 
         link: "https://myidol-1.blogspot.com/p/tsujino-kanami.html",
         nickname: "Kanamin (かなみん)",
         born: "June 2, 1999 (27)",
