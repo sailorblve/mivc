@@ -163,7 +163,7 @@ const totalIdols = [
     { 
         name: "Sakamoto Hazuki",
         kanji: "坂元葉月",
-        group: "Wasuta",
+        group: "The World Standard",
         color: "Pastel Yellow",
         position: "Support",
         imagen: "[INSERTA_TU_ENLACE_DE_IMAGEN_AQUI]",
