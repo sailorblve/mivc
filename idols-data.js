@@ -161,6 +161,22 @@ const totalIdols = [
         formerGroups: "e-Street SAPPORO, hanarichu"
     },
     { 
+        name: "Sakamoto Hazuki",
+        kanji: "坂元葉月",
+        group: "Wasuta",
+        color: "Pastel Yellow",
+        position: "Support",
+        imagen: "[INSERTA_TU_ENLACE_DE_IMAGEN_AQUI]",
+        link: "https://myidol-1.blogspot.com/p/sakamoto-hazuki.html",
+        nickname: "Haachin (はーちん)",
+        born: "September 9, 1998",
+        birthplace: "Hyogo, Japan",
+        height: "155 cm",
+        agency: "Avex Management",
+        debut: "2011",
+        formerGroups: "GEM, hanarichu, w-Street OSAKA"
+    },
+    { 
         name: "Sakura Nao", 
         kanji: "咲良菜緒", 
         group: "TEAM SHACHI", 
