@@ -1,13 +1,13 @@
 // profile-images.js
-const totalIdols = [
+const totalProfileImages = [
     { 
-        name: "Tsujino Kanami", 
+        name: "Tsujino Kanami Witch", 
         group: "Cho Tokimeki♡Sendenbu", 
-        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaIgZKGv-cJDCsFMQPFooAYa3ZA9PQz6iuuKov7fZPjqw1WEHrPq49T8NIpEP1w8iiuETBqj1eXquQqju0mKLNCQg-jE0vi8zvB-qjxsOHglBrEss-L6K4GAsWXWokmqzg7z8L7psKQC7avdVWAD-Eyc_dorq2QH_Kcw8sTQQGZj3WuzhDjhTRSywJ0Xwc/s1600/TsujinoKanamiWitch.webp"
+        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaIgZKGv-cJDCsFMQPFooAYa3ZA9PQz6iuuKov7fZPjqw1WEHrPq49T8NIpEP1w8iiuETBqj1eXquQqju0mKLNCQg-jE0vi8zvB-qjxsOHglBrEss-L6K4GAsWXWokmqzg7z8L7psKQC7avdVWAD-Eyc_dorq2QH_Kcw8sTQQGZj3WuzhDjhTRSywJ0Xwc/s1600/TsujinoKanamiWitch.webp" 
     },
     { 
         name: "Suda Aki", 
         group: "Cho Tokimeki♡Sendenbu", 
-        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCUUB6uv4A4uNtr3pxKBmS6A1ppXq6YMoiF-EGB2pCicViaZixyOmaEsnj6-u8lAvjYkH1v5x9-iuLOcI8puFT2x3tkScsL6hfHqMm5C-uApl42OqkTLOjVd741YMHRzK1j8tPrnN9CwogCq0RsmMyYwl7Mq_cRp9zvDZ7ZliCd4Go-188b5zhCkk012pl/s1600/SudaAki.webp", 
+        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCUUB6uv4A4uNtr3pxKBmS6A1ppXq6YMoiF-EGB2pCicViaZixyOmaEsnj6-u8lAvjYkH1v5x9-iuLOcI8puFT2x3tkScsL6hfHqMm5C-uApl42OqkTLOjVd741YMHRzK1j8tPrnN9CwogCq0RsmMyYwl7Mq_cRp9zvDZ7ZliCd4Go-188b5zhCkk012pl/s1600/SudaAki.webp" 
     }
 ];
