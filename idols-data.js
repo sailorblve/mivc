@@ -53,7 +53,7 @@ const totalIdols = [
         kanji: "吉川ひより", 
         group: "Cho Tokimeki♡Sendenbu", 
         color: "Cho Tokimeki♡Green", 
-        position: "Variety", 
+        position: "Utahime · Variety", 
         imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfk0aOzYwmzbuLc424mOyBllWWbAteeRtVXno7p-9z1NcTkAZTqgW8fq5pNIo3YlbvyDL0C5vilF6Xe7T2-e5HCDC1TcxSWMXGCDI6v4u5xbO0HGumCuHB_8ZDFXTvjByoXGm0Igqd5O91EuMuYeOoM-7e07vBxoyl_s27ZeBTO46EfgZDC2B6D8jpm6K9/s1600/yoshikawahiyori.webp", 
         link: "https://myidol-1.blogspot.com/p/yoshikawa-hiyori.html",
         nickname: "Hiyorin (ひよりん)",
