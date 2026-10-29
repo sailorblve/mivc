@@ -70,7 +70,7 @@ const totalIdols = [
         group: "Cho Tokimeki♡Sendenbu", 
         color: "Cho Tokimeki♡Lemon", 
         position: "Visual", 
-        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_0igDmxNdTT5tvEOAF9GjIDPj4KcQiHeT0AjH5dXsgGYM7C5GG3N7YeO2NAUUqMf-AbsDTA6pHc-271OtJ8LzWiAqhWtnZzZx0Fbhmow5hdJ_ViGgRGL7dE95yPs7-75rsIlG6E8Fg2ofXu2RDKqFh81KAw3Aed5HpMFshkMvgyv1KW-e8NoFM4mZ5FpC/s1600/sudaaki.webp", 
+        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMkWCV7SQ7n3HsaQ7pONcY2mSZTVlA-YqUMhHkYNWi6RBzkMdbs1NtdwTK9ThRLTviWMmIbFgjuY3hLHZ0nI0COByt0UNb4kaEXaArcSO_racdBeCQ8FmKIfrDC3QmhP0ELRPw2XapZHGEGy86pbUZXsCds1JxiO0TaPKfr4ZuR9gZ4VnrDfjZosIpJeF2/s1600/AS-I.webp", 
         link: "https://myidol-1.blogspot.com/p/suda-aki.html",
         nickname: "Akichan (あきちゃん)",
         born: "December 20, 2004 (21)",
