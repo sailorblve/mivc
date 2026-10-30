@@ -134,7 +134,7 @@ const totalIdols = [
         group: "The World Standard", 
         color: "Pastel Green", 
         position: "Leader · Center", 
-        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP8jI-1MD0_UGVdRixo1MYX0MI2GVvAbL61gJB1XNygR1e79TsJlS2nWcDhStufa6FFnnitkP3WbcT19FzdFXPo0YGdYUeECrVSStlxCq0BH3MSMzvjhnKNYeyd3PAQv_KYUnCdSw7uKVrFg4obYzlDI9qcT2ahr5pf4fT1VEFvbfhqOdXcv1EnfKT8NZ1/s1600/hirokawananase.webp", 
+        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLaLJTiIfnaANr1N2IG02bUvTFI1ZJeXk8qaNlboBZkzUEZRWpROtOvGeXGtQKXHlkV8-n98QOqbiaqEXXr0K-xWz6FolYspOzxWE6qBlxybU-5ufl7lq-SFn-ytS4jMN2dKaN2y6t3QmEQmzmoqBU1SliYqnFhuEmxt-0F9PyWCzRqKJ_BSgNvP2OKrhB/s1600/NH-I.webp", 
         link: "https://myidol-1.blogspot.com/p/hirokawa-nanase.html",
         nickname: "Natchun (なっちゅん)",
         born: "May 12, 1999 (27)",
