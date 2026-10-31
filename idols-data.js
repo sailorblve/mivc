@@ -99,7 +99,7 @@ const totalIdols = [
     { 
         name: "Matsuda Miri", 
         kanji: "松田美里", 
-        group: "The World Standard", 
+        group: "Wasuta", 
         color: "Pastel Purple", 
         position: "Variety", 
         imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2KHolkjz6p7Bm0Y9MMbYgRnbmrBRSrjq2rEXDM_hylsNzcSFZ4O9o3nFz0zWntazvPn9gvirC4SPBuj04ikcgY6w5amWd6VXG2yMqnOTHIsNO1rntI2toDDNXutJB3-Lu-fPUdokQse1Zu65bq84HzPyIXokdhEOuRxijulbk-e5wfG-Y8CclEFxNAzk9/s1600/matsudamiri.webp", 
@@ -115,7 +115,7 @@ const totalIdols = [
     { 
         name: "Mishina Ruka", 
         kanji: "三品瑠香", 
-        group: "The World Standard", 
+        group: "Wasuta", 
         color: "Pastel Pink", 
         position: "Ace · Utahime", 
         imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwbPgdqHzRpl_N51QIWRYtIRlksBuTLQ0e9EinD0H3_9Ijes1ma3Xyg0DJzUPnQVatdc7zrZX3Hf9vaEtfLD5SPTQa2vDiUB-Y78NQVpXqDL9j88XWtIJ2k0t0xQMFs4aNYCIYM0wF_GUUuDgojbgMA0kQORRMZmiCO-XBaWQz3WjEZUAejCiFPxCmAZF/s1600/mishinaruka.webp", 
@@ -131,7 +131,7 @@ const totalIdols = [
     { 
         name: "Hirokawa Nanase", 
         kanji: "廣川奈々聖", 
-        group: "The World Standard", 
+        group: "Wasuta", 
         color: "Pastel Green", 
         position: "Leader · Center", 
         imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLaLJTiIfnaANr1N2IG02bUvTFI1ZJeXk8qaNlboBZkzUEZRWpROtOvGeXGtQKXHlkV8-n98QOqbiaqEXXr0K-xWz6FolYspOzxWE6qBlxybU-5ufl7lq-SFn-ytS4jMN2dKaN2y6t3QmEQmzmoqBU1SliYqnFhuEmxt-0F9PyWCzRqKJ_BSgNvP2OKrhB/s1600/NH-I.webp", 
@@ -147,7 +147,7 @@ const totalIdols = [
     { 
         name: "Kodama Ririka", 
         kanji: "小玉梨々華", 
-        group: "The World Standard", 
+        group: "Wasuta", 
         color: "Pastel Blue", 
         position: "Visual", 
         imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nsQF4h5K9sqpXqpdShZuoUYcb6LwSWvlKN9MYz1VWQYTinzArGyoaPPc1UB3jB9sZKFXDsKUJWSc902z_xNjsfwLbO71jQTPSll6ZbnvuQsCfn6ASzhS3C45RuVgO9Pj8mTCtFvytpWHk9GhqzbtpSKbUYMSbMR68uOSMx468TSiiqlWzHQuSKjnVSv9/s1600/kodamaririka.webp", 
@@ -163,7 +163,7 @@ const totalIdols = [
     { 
         name: "Sakamoto Hazuki",
         kanji: "坂元葉月",
-        group: "The World Standard",
+        group: "Wasuta",
         color: "Pastel Yellow",
         position: "Support",
         imagen: "[INSERTA_TU_ENLACE_DE_IMAGEN_AQUI]",
