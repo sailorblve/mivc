@@ -214,7 +214,7 @@ const totalIdols = [
         group: "Tokimeki♡Sendenbu", 
         color: "Tokimeki♡Lemon", 
         position: "Variety", 
-        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcYyURyFmReNidYipfNpVsMS70ZlYZVtpi9ZxNAApyjdmxTKRL_MA8foKpHJXoxk9iKr8j-it9wLOaQE4Mw6itJJzTAkhq_VCwN5Xm4pSDHIf7HMhKc8r8reDL0gKMs6_i9eJah6fAQIY3HLNPmT_LAprLDGlLBRIoR2YEbzeuZVWOS4nAyrpMPEIYVJNd/s1600/BF-I.webp", 
+        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtvSCw0KdMcOmnhqDYeS6a3y6HnSLrdaoIN38K8Fv3B0PCT_1pfJHnftRRFXr-HdhfIFiWqH92LVtZod30TmiuCf3iOo8p2HIY_DfEFm4WX6AFCPCmAmDvjA8e3JdglYwFTDjBeuRPev5v-e56BwiHHsKm_i92d0LC8BWYSnzZ54zWCvS1PjSfJlZRzoqn/s1600/BJ-I.webp", 
         link: "https://myidol-1.blogspot.com/p/fujimoto-bambi.html", 
         nickname: "Bambi (ばんび)", 
         born: "June 5, 2004", 
