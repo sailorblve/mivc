@@ -198,7 +198,7 @@ const totalIdols = [
         group: "Tokimeki♡Sendenbu", 
         color: "Tokimeki♡Purple", 
         position: "Visual", 
-        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFjomaupw7CRzxs3_tIQZDN9Im9bjROjmhqUqwEIZ8UvZC8PzkLQugc3Ec7LRWOBbXPBFF0K22ZbnUDZapjjimyJH6s59Jiw9vLdXc-wrFR-A2QqkCv-u1VeuXVRZRZt36XU4LoSId7aQcwssSqRj6lwZZ15hR7tJTVf9yejiK5eDLKjwFRLO7aHl5F2kC/s1600/SO-I.webp", 
+        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKGcLre6PbdZa8O4xaYoF5i_HDHr_65TAmA9ED-ESDLEPvyXwCesK9eTUgn2q2HEKWxoVOcmPexLgivk3K2o803VxW_tN22p8MgOmp3w2qiq5c0WdRW3UE5_8tzPJTt6bpBzt9eH1himzojoZp2YvEQAwpfLTIwZCmfQ97SiTKjw8JQ5UPU_adBxb3HXq5/s1600/SO-I.webp", 
         link: "https://myidol-1.blogspot.com/p/odaka-sara.html", 
         nickname: "Sarara (さらら)", 
         born: "November 18, 2003", 
