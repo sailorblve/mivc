@@ -3,11 +3,24 @@ const totalProfileImages = [
     { 
         name: "Tsujino Kanami", 
         group: "Cho Tokimeki♡Sendenbu", 
-        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaIgZKGv-cJDCsFMQPFooAYa3ZA9PQz6iuuKov7fZPjqw1WEHrPq49T8NIpEP1w8iiuETBqj1eXquQqju0mKLNCQg-jE0vi8zvB-qjxsOHglBrEss-L6K4GAsWXWokmqzg7z8L7psKQC7avdVWAD-Eyc_dorq2QH_Kcw8sTQQGZj3WuzhDjhTRSywJ0Xwc/s1600/TsujinoKanamiWitch.webp" 
+        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwAqHr_uF7hCrLglt2MF8e9AqYXekk1QNKHVqlp0HB5arhl65srJ1MYWVMBfK20sQH5xkUu63fOAX_vi-DYRKe8XdNkW-Q4CujSv6LqTyTxuUyYocT2aMemxolegSAtRkMBHQG9zGTsFYaPgAXB7cMAvvEb4O7tIg0eyiLL-SL-SvcQu1DyHqprCIeI7z1/s1600/TK-H.webp" 
     },
     { 
         name: "Suda Aki", 
         group: "Cho Tokimeki♡Sendenbu", 
-        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCUUB6uv4A4uNtr3pxKBmS6A1ppXq6YMoiF-EGB2pCicViaZixyOmaEsnj6-u8lAvjYkH1v5x9-iuLOcI8puFT2x3tkScsL6hfHqMm5C-uApl42OqkTLOjVd741YMHRzK1j8tPrnN9CwogCq0RsmMyYwl7Mq_cRp9zvDZ7ZliCd4Go-188b5zhCkk012pl/s1600/SudaAki.webp" 
+        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSDWyKWTcSj1kBpiYV3FT-0kDUNq4cmrrg8AVpewvvn-OwYCpCbcEaIL3ZzIkIq_dvTQQSHqmbuQdzfGMAzkTgf9Hw1CT-F4RXgCKPAsxirELQJUwb3VwhupC0BvnVEqrJOxYhvUgiAioR69jD5xnHExu5FBEQvqhHb4eWwF0tLf-uJRVWK-ExmwTY3bbo/s1600/AS-H.web" 
     }
+{ 
+        name: "Hirokawa Nanase", 
+        group: "Wasuta", 
+        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQc9XHvpHACV8e1rvKdhgwgU5GP2LFBx7jToOfoGuFvKQ5PICh4pBvafHQAd0g-ajm0SURlGXzHVzSaXkB8cghF1uttYguxxRxYF9pnLuWN6gtzQIVkJqD0Jys5q7Z11MbBPvJjx4fRBhnKNB9rSYMHr7JHm-2MdnH1RCMiX71lTh0n3uIdaLKwn48Ac4u/s1600/HN-M.webp" 
+    },{ 
+        name: "Ito Momoka", 
+        group: "AKB48", 
+        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5A0uvNP6kwVw_kGypLU5dThTqO0nj3KbVIr5Sr-xIdaE_qxWW-_Dx6Hm-EPjXLkb0lsdftDfLeVoL_5qJqdj7m5VM4ufCpNjPsPjGL1hB7KiHS_Scpfc15idYMWItNrcwU1kGxw_7OZHz4Eir3NShL2ITfEY3hONFtqH64cb8A1sTwJN1cpRtile-ItKM/s1600/IM-M.webp" 
+    },{ 
+        name: "Tsushiro Mizuki", 
+        group: "Jams Collection, 
+        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA02yZCx4k8wOy2w4fAjmOZls4GZJ9iB7WAwyUXBldfNhriR_nkW7X8Q9F3ieblRi0-pEqUx9z1knHA64K9LhjeG3_i05wLccJ7cVs438VvQO8E3pxGR6lNO0JHmEP9WcTMVpf-KGVuckQY-prZ80hjRaNqH0Q6_qdAaD3bBc8_hckQKfoemmYLd3gDoSS/s1600/TM-K.webp" 
+    },
 ];
