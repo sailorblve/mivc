@@ -9,18 +9,20 @@ const totalProfileImages = [
         name: "Suda Aki", 
         group: "Cho Tokimeki♡Sendenbu", 
         imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSDWyKWTcSj1kBpiYV3FT-0kDUNq4cmrrg8AVpewvvn-OwYCpCbcEaIL3ZzIkIq_dvTQQSHqmbuQdzfGMAzkTgf9Hw1CT-F4RXgCKPAsxirELQJUwb3VwhupC0BvnVEqrJOxYhvUgiAioR69jD5xnHExu5FBEQvqhHb4eWwF0tLf-uJRVWK-ExmwTY3bbo/s1600/AS-H.web" 
-    }
+    },
 { 
         name: "Hirokawa Nanase", 
         group: "Wasuta", 
         imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQc9XHvpHACV8e1rvKdhgwgU5GP2LFBx7jToOfoGuFvKQ5PICh4pBvafHQAd0g-ajm0SURlGXzHVzSaXkB8cghF1uttYguxxRxYF9pnLuWN6gtzQIVkJqD0Jys5q7Z11MbBPvJjx4fRBhnKNB9rSYMHr7JHm-2MdnH1RCMiX71lTh0n3uIdaLKwn48Ac4u/s1600/HN-M.webp" 
-    },{ 
+    },
+{ 
         name: "Ito Momoka", 
         group: "AKB48", 
         imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5A0uvNP6kwVw_kGypLU5dThTqO0nj3KbVIr5Sr-xIdaE_qxWW-_Dx6Hm-EPjXLkb0lsdftDfLeVoL_5qJqdj7m5VM4ufCpNjPsPjGL1hB7KiHS_Scpfc15idYMWItNrcwU1kGxw_7OZHz4Eir3NShL2ITfEY3hONFtqH64cb8A1sTwJN1cpRtile-ItKM/s1600/IM-M.webp" 
-    },{ 
+    },
+{ 
         name: "Tsushiro Mizuki", 
         group: "Jams Collection, 
         imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA02yZCx4k8wOy2w4fAjmOZls4GZJ9iB7WAwyUXBldfNhriR_nkW7X8Q9F3ieblRi0-pEqUx9z1knHA64K9LhjeG3_i05wLccJ7cVs438VvQO8E3pxGR6lNO0JHmEP9WcTMVpf-KGVuckQY-prZ80hjRaNqH0Q6_qdAaD3bBc8_hckQKfoemmYLd3gDoSS/s1600/TM-K.webp" 
-    },
+    }
 ];
