@@ -118,14 +118,14 @@ const totalIdols = [
         group: "Wasuta", 
         color: "Pastel Pink", 
         position: "Ace · Utahime", 
-        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwbPgdqHzRpl_N51QIWRYtIRlksBuTLQ0e9EinD0H3_9Ijes1ma3Xyg0DJzUPnQVatdc7zrZX3Hf9vaEtfLD5SPTQa2vDiUB-Y78NQVpXqDL9j88XWtIJ2k0t0xQMFs4aNYCIYM0wF_GUUuDgojbgMA0kQORRMZmiCO-XBaWQz3WjEZUAejCiFPxCmAZF/s1600/mishinaruka.webp", 
+        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKvE367rrL6_A1UGk5_8KsD_AlZ8tYh3whorf6g0vWf5tgkeNTh8d0ZFj3UTAYO2bU1eI0SjAujwRsRAJAhSTo_Tv_Mr6BR9dLhFHN_mBNpev8m8xikm-0crGddSiM3kQaofrIDfrMCEchcpTkuutVNAS62-AbZydOqCmAf2xJNOb9EzKXtnBHl5Rt2C3n/s1600/MR-BI.webp", 
         link: "https://myidol-1.blogspot.com/p/mishina-ruka.html",
         nickname: "Ruka (るか)",
         born: "March 17, 2001",
         birthplace: "Aichi, Japan",
         height: "165 cm",
         agency: "Avex Management",
-        debut: "2015",
+        debut: "2013",
         formerGroups: "NAGOYA Chubu"
     },
     { 
