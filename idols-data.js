@@ -86,7 +86,7 @@ const totalIdols = [
         group: "スクールアイドルミュージカル", 
         color: "Orange", 
         position: "Dance Leader", 
-        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT5Na3VLo0S8L5yzHxR54QpwEbKByOorvBDUBc43QWJ9BOJqWLF-Urq5o4t0dH325T8Z42OqjCRACKRdPylLHxKokiUzH4nWv29OmIpyLnGnl4xP5IsH8NOu3V-7aINxnAufd-TPDb15IuR8aOAZ0mtAlmcQcb-s3g9j4flWz1JZt8rZLgYgSuZ0GJ9eZD/s1600/anjulia.webp", 
+        imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZHPbLmtm8XkhkoBf9BZHT8KVKIWK4LbfZ2AvLAT8sqdu3F4t99ypd_i3XYLoQL6eT5n3t6iwBca00t1BJFUQ2VbwROaEt853bOJCInR5KAsckEnTvC_ByM02bNCiRZzk12YLsuKLTFclvc4nRRIYwYJO88Smibri73GEjIHr0TO5ezKiDRB6IwZcEHuDN/s1600/AN-BIS.webp", 
         link: "https://myidol-1.blogspot.com/p/an-julia.html",
         nickname: "Juli (ジュリ)",
         born: "January 15, 2004",
